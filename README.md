@@ -28,14 +28,25 @@ Contains summarized data for different departments (e.g., Accounting, Engineerin
 Includes cities (e.g., Austin, Beijing, Chengdu) with salary summaries.
 
 It seems to be pre-aggregated data, potentially useful for quick visualizations.
-2. Employee Data Sheet
+
+**2. Employee Data Sheet**
+
 Provides detailed employee-level data with fields like:
+
 Employee ID, Full Name, Job Title, Department, Business Unit
-Demographics: Gender, Ethnicity, Age
-Hire Details: Hire Date
-Compensation: Annual Salary, Bonus %
-Geography: Country, City
+
+**Demographics:** Gender, Ethnicity, Age
+
+**Hire Details:** Hire Date
+
+**Compensation:** Annual Salary, Bonus %
+
+**Geography:** Country, City
+
 Ideal for generating insights such as:
+
 Headcount by Department/Location
+
 Gender or Ethnicity diversity metrics
+
 Salary and Bonus distribution
