@@ -50,3 +50,25 @@ Headcount by Department/Location
 Gender or Ethnicity diversity metrics
 
 Salary and Bonus distribution
+
+**Power BI Analysis Ideas:**
+
+**Employee Demographics:**
+
+Gender, Ethnicity, and Age distribution visualizations.
+
+**Geographic Insights:**
+
+Employee distribution and salary comparison across countries and cities.
+
+**Business Unit Analysis:**
+
+Headcount and compensation breakdown by business unit.
+
+**Diversity Metrics:**
+
+Highlight gender/ethnic diversity across departments.
+
+**Compensation Trends:**
+
+Salary distribution by department, location, or hire year.
