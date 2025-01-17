@@ -71,7 +71,4 @@ Highlight gender/ethnic diversity across departments.
 
 **Compensation Trends:**
 
-
-
-
 Salary distribution by department, location, or hire year.
